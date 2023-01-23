@@ -1,0 +1,3 @@
+Registering in GitHub=https://github.com
+Create a new repositary = htpps://github.com/new
+Copying the syntax = https://github.com/JordanStanchev/Getting-Started-as-User-Assistance-Developer/blob/master/topic_syntax_markdown.txt
